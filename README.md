@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dikshantk29/NeetCode---150/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Dikshantk29/NeetCode---150/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Dikshantk29/NeetCode---150/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Dikshantk29/NeetCode---150/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dikshantk29/NeetCode---150/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Dikshantk29/NeetCode---150/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dikshantk29/NeetCode---150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dikshantk29/NeetCode---150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +91,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dikshantk29/NeetCode---150/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
