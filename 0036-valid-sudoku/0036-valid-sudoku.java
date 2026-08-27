@@ -5,7 +5,7 @@ public class Solution {
     public boolean isValidSudoku(char[][] board) {
 
         // Check rows
-          for (int i = 0; i < 9; i++) {
+        for (int i = 0; i < 9; i++) {
             Set<Character> seen = new HashSet<>();
             for (int j = 0; j < 9; j++) {
                 if (board[i][j] == '.') continue;
@@ -13,7 +13,6 @@ public class Solution {
                 seen.add(board[i][j]);
             }
         }
-
 
         
 
