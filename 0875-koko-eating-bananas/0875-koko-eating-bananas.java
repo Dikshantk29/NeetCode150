@@ -2,7 +2,7 @@ public class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int l = 1;
         int r = Arrays.stream(piles).max().getAsInt();
-        int res = r;
+        int res = 0;
 
         while (l <= r) {
             int k = (l + r) / 2;
@@ -21,21 +21,3 @@ public class Solution {
         return res;
     }
 }
-
-// public class Solution {
-//     public int minEatingSpeed(int[] piles, int h) {
-//         int speed = 1;
-//         while (true) {
-//             long totalTime = 0;
-//             for (int pile : piles) {
-//                 totalTime += (int) Math.ceil((double) pile / speed);
-//             }
-
-//             if (totalTime <= h) {
-//                 return speed;
-//             }
-//             speed++;
-//         }
-//     }
-// }
-
