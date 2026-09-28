@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dikshantk29/NeetCode---150/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dikshantk29/NeetCode---150/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Dikshantk29/NeetCode---150/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Dikshantk29/NeetCode---150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dikshantk29/NeetCode---150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dikshantk29/NeetCode---150/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Dikshantk29/NeetCode---150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dikshantk29/NeetCode---150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
 ## Array
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dikshantk29/NeetCode---150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dikshantk29/NeetCode---150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dikshantk29/NeetCode---150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Dikshantk29/NeetCode---150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dikshantk29/NeetCode---150/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/Dikshantk29/NeetCode---150/tree/master/0875-koko-eating-bananas) |
