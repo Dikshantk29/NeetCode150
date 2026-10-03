@@ -6,7 +6,7 @@ class Solution {
 
         int[] count = new int[26];
 
-        if (s.length() != t.length()) {
+        if(s.length() != t.length()){
             return false;
         }
 
