@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dikshantk29/NeetCode---150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dikshantk29/NeetCode---150/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Dikshantk29/NeetCode---150/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Dikshantk29/NeetCode---150/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dikshantk29/NeetCode---150/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Dikshantk29/NeetCode---150/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dikshantk29/NeetCode---150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dikshantk29/NeetCode---150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Dikshantk29/NeetCode---150/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dikshantk29/NeetCode---150/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
