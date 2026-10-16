@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dikshantk29/NeetCode---150/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Dikshantk29/NeetCode---150/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Dikshantk29/NeetCode---150/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Dikshantk29/NeetCode---150/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dikshantk29/NeetCode---150/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dikshantk29/NeetCode---150/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Dikshantk29/NeetCode---150/tree/master/0054-spiral-matrix) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dikshantk29/NeetCode---150/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Dikshantk29/NeetCode---150/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
