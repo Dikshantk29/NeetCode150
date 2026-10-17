@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dikshantk29/NeetCode---150/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Dikshantk29/NeetCode---150/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dikshantk29/NeetCode---150/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Dikshantk29/NeetCode---150/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dikshantk29/NeetCode---150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dikshantk29/NeetCode---150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dikshantk29/NeetCode---150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -151,4 +152,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dikshantk29/NeetCode---150/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Dikshantk29/NeetCode---150/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dikshantk29/NeetCode---150/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
