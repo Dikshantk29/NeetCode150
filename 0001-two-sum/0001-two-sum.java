@@ -6,19 +6,22 @@ class Solution {
         //optimal - HashMap
 
         //HashMap<Value, Index>
+
         Map<Integer, Integer> map = new HashMap<>();
 
-        for (int i = 0; i < nums.length; i++) {
+        for(int i=0;i< nums.length; i++){
             int num = nums[i];
             int diff = target - num;
 
-            if (map.containsKey(diff)) {
-                return new int[] { map.get(diff), i };
+            if(map.containsKey(diff)){
+
+                return new int[]{map.get(diff),i};
             }
 
             map.put(num, i);
         }
-        return new int[] { -1, -1 };
+
+        return new int[]{-1, -1};
 
     }
 }
