@@ -24,7 +24,8 @@ class Solution {
         int rightHeight = maxHeight(root.right);
         int diameter = leftHeight + rightHeight;
 
-        int sub = Math.max(diameterOfBinaryTree(root.left),diameterOfBinaryTree(root.right));
+        int sub = Math.max(diameterOfBinaryTree(root.left),
+        diameterOfBinaryTree(root.right));
 
         return Math.max(diameter, sub);  
     }
