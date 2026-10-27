@@ -1,20 +1,20 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int farthest = 0;
+        int far = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (i > farthest) {
+        for(int i=0;i< nums.length;i++){
+
+            if(i > far){
                 return false;
             }
 
-            farthest = Math.max(farthest, i + nums[i]);
+            far = Math.max(far, i+ nums[i]);
 
-            if (farthest >= nums.length - 1) {
+            if(far >= nums.length-1){
                 return true;
             }
         }
-
-        return true;
+        return false;
     }
 }
 // class Solution {
