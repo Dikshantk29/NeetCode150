@@ -1,43 +1,36 @@
 public class Solution {
     public void reorderList(ListNode head) {
-        if (head == null || head.next == null) return;
 
-        // Find the middle
-        ListNode mid = findMid(head);
-
-        // Split the list into two halves
-        ListNode second = mid.next;
-        mid.next = null;
-
-        // Reverse the second half
-        ListNode right = reverseLL(second);
-
-        // Merge the two halves alternately
-        ListNode left = head;
-
-        while (left != null && right != null) {
-            ListNode leftNext = left.next;
-            ListNode rightNext = right.next;
-
-            left.next = right;
-            right.next = leftNext;
-
-            left = leftNext;
-            right = rightNext;
+        if (head == null || head.next == null) {
+            return;
         }
-    }
 
-    static ListNode findMid(ListNode head) {
+        // Step 1: Find the middle
         ListNode slow = head;
-        ListNode fast = head.next;
+        ListNode fast = head;
 
-        // Find the end of the first half
-        while (fast != null && fast.next != null) {
+        while (fast.next != null && fast.next.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        return slow;
+        // Step 2: Reverse the second half
+        ListNode second = reverseLL(slow.next);
+        slow.next = null;
+
+        // Step 3: Merge the two halves
+        ListNode first = head;
+
+        while (second != null) {
+            ListNode temp1 = first.next;
+            ListNode temp2 = second.next;
+
+            first.next = second;
+            second.next = temp1;
+
+            first = temp1;
+            second = temp2;
+        }
     }
 
     static ListNode reverseLL(ListNode head) {
@@ -46,7 +39,6 @@ public class Solution {
 
         while (curr != null) {
             ListNode next = curr.next;
-
             curr.next = prev;
             prev = curr;
             curr = next;
@@ -54,4 +46,8 @@ public class Solution {
 
         return prev;
     }
+
+
+
+    
 }
